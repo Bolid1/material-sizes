@@ -1,7 +1,7 @@
 {
   "name": "material-sizes",
   "homepage": "https://github.com/bolid1/material-sizes",
-  "version": "1.2.6",
+  "version": "1.0.0",
   "description": "Sizes of Google's Material Design made available to coders",
   "main": "dist/sizes.js",
   "module": "dist/sizes.es2015.js",
